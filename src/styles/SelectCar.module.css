@@ -1,0 +1,15 @@
+.selectCarContainer {
+    background: lightblue;
+    display: flex;
+    flex-grow: 1;
+}
+
+.carSelectionDiv {
+    margin: 10px 10px;
+    padding: 10px 10px;
+    border: 1px solid white;
+    border-width: 4px;
+}
+.carSelectionDivSelected {
+    border-color: green;
+}

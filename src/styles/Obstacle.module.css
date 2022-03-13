@@ -1,0 +1,10 @@
+.ObstacleContainer {
+    width: 60px;
+    height: 60px;
+}
+
+.ObstacleImg {
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}
